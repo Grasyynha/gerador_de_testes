@@ -8,6 +8,12 @@ Escolhe uma ou mais opções abaixo a serem geradas aleatóriamente
 [5] - Estado
 Digite uma(as) opções:
 
+nome = ['Grasiela', 'Nick', 'Arthur', 'Jose']
+email = ['grasy.mst@gmail.com', 'nick@gmail.com', 'tu@gmsil.com', 'jose@gmail.com']
+cidades = ['Floripa', 'Palhoça', 'Biguaçu', 'Sao jose']
+estados = ['Santa catarina', 'Curitiba', 'Sao paulo', 'Porto alegre']
+telefones = ['234233-6745','34567-2345','12345-6789', '10987-3456']
+
 
 Gostaria de salvar os dados em um arquivo de texto?(s/n)
 
